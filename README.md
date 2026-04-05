@@ -6,8 +6,6 @@
 
 ---
 
-## 🚀 Tecnologias
-
 <p align="center">
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>
