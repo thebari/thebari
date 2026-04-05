@@ -1,16 +1,15 @@
-## Hi there 👋
+Oi, aqui é o Bernardo Farias 👋
+👨🏽‍💻 Um pouquinho sobre mim:
+Sou Desenvolvedor 👍
 
-<!--
-**thebari/thebari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻🚀 Minhas Tecnologias
+Csharp DotNet Core DotNet HTML CSS JavaScript JavaScript Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Prêmios, Cursos e Certificações
+Descrição	Instituição	Ano	Tipo
+🏅 Scrum Fundamentals Certified - SFC™	SCRUMstudy	2020	Certificação
+🏅 Crei bot através de Web Scraping, Crawling com C# e Selenium	Udemy	2019	Curso
+🏅 2º Lugar Hackaton - I Edição HACKAPÃO	UNASP	2019	Prêmio
+🌐 Minhas Redes Sociais
+  
+⚙️ Estatísticas GitHub
